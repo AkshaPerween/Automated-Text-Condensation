@@ -134,14 +134,10 @@ summarize_beam(
 
 ## Contributers
 - Sindhu Kumari
-  
   Enrollment Number- SBU220013
-  - Sindhu Kumari
-  
-  Enrollment Number- SBU220013
-  - Sindhu Kumari
-  
-  Enrollment Number- SBU220013
-  - Sindhu Kumari
-  
-  Enrollment Number- SBU220013
+- Aksha Perween
+  Enrollment Number- SBU220211
+- Anshu Kumari
+  Enrollment Number- SBU220257
+- Asra Yasmeen
+  Enrollment Number- SBU220335
