@@ -129,3 +129,19 @@ summarize_beam(
 - Decoder inputs are wrapped with `<go>` and `<stop>` special tokens during training.
 - Separate tokenizers are used for the encoder (document) and decoder (summary) vocabularies.
 - Beam search uses length normalization to avoid bias toward shorter sequences.
+
+---
+
+## Contributers
+- Sindhu Kumari
+  
+  Enrollment Number- SBU220013
+  - Sindhu Kumari
+  
+  Enrollment Number- SBU220013
+  - Sindhu Kumari
+  
+  Enrollment Number- SBU220013
+  - Sindhu Kumari
+  
+  Enrollment Number- SBU220013
